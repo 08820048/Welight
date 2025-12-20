@@ -13,10 +13,8 @@
 ![配图系统.png](https://ultimate-img.oss-cn-beijing.aliyuncs.com/welight/ilikexff@gmail.com/20251120/75620683cf0f4bb99e15ff14870220af.png)
 
 ---
-
-## 图片排版
-
-- 编辑区右键菜单
+## 图片排版h哈哈哈
+ 图片排版h哈哈哈 图
 - 选择 **排图** 
 - 选中喜欢的图片排版模板
 - 双击应用到文章中
