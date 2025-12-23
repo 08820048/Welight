@@ -2,6 +2,8 @@
 
 ## 基本使用测试
 
+![](https://mmbiz.qpic.cn/mmbiz_png/yHUX2BbY9NeysciaXoLAtxRN9oMdO6cjRvsO5QobB0lM2crkjca7GbLUod4LNOId9VIicG7wg6ia3pCZM6xvvSXlA/0?wx_fmt=png)
+
 - 打开软件，试用期有效或者处于激活状态。
 - 打开编辑和排版界面
 - 粘贴或者编辑文章
