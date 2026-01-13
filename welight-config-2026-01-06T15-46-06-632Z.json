@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": 1767714366632,
+  "appVersion": "4.5.7",
+  "runtimePrefix": "MD",
+  "entries": {
+    "sys-doc-1767620962392__last_started_version": "4.5.6",
+    "sys-doc-1767620949542__last_started_version": "4.5.6",
+    "sys-doc-changelog-1767620976688__last_started_version": "4.5.6",
+    "last_started_version": "4.5.7",
+    "heading_align": "center",
+    "dailyProgress": "{\"2026-01-04\":{\"date\":\"2026-01-04\",\"layoutCount\":0,\"saveCount\":1,\"draftUploadCount\":0,\"completed\":false},\"2026-01-05\":{\"date\":\"2026-01-05\",\"layoutCount\":1,\"saveCount\":8,\"draftUploadCount\":1,\"completed\":true},\"2026-01-06\":{\"date\":\"2026-01-06\",\"layoutCount\":0,\"saveCount\":3,\"draftUploadCount\":0,\"completed\":false}}",
+    "is_open_settings_panel": "true",
+    "theme": "w022",
+    "folder_color_map": "{\"/Users/xuyi/Desktop/Welight/更新文档\":\"hsl(100 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/技术博文\":\"hsl(16 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/科技文章\":\"hsl(308 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/零食\":\"hsl(177 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/排版记录\":\"hsl(170 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/文档转换\":\"hsl(133 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/AI 创作\":\"hsl(182 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/Welight 更新日志\":\"hsl(244 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/Welight功能规划\":\"hsl(29 85% 50%)\",\"/Users/xuyi/Desktop/Welight/更新文档/今日头条\":\"hsl(37 85% 50%)\"}",
+    "is_open_post_slider": "true",
+    "unordered_list_style": "square",
+    "visible_themes": "[\"w001\",\"w002\",\"w003\",\"w004\",\"w005\",\"w006\",\"w007\",\"w023\",\"w022\",\"w021\",\"w018\"]",
+    "paragraph_line_height": "1.8",
+    "git_repo_path": "/Users/xuyi/Desktop/Welight/更新文档",
+    "is_open_right_slider": "false",
+    "appPrimaryColor": "#14b8a6",
+    "sys-doc-changelog-1767620976687__last_started_version": "4.5.6"
+  }
+}
